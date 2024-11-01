@@ -268,7 +268,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:298
 msgid "An ID is required to edit a post."
-msgstr ""
+msgstr "ken ante ala e lipu sitelen. nimi li wile."
 
 #: includes/controller/Admin.php:310 includes/controller/Admin.php:374
 #: includes/controller/Admin.php:418 includes/controller/Admin.php:459
@@ -282,7 +282,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:362
 msgid "An ID is required to update a post."
-msgstr ""
+msgstr "ken ante sin ala e lipu sitelen. nimi li wile."
 
 #: includes/controller/Admin.php:392
 msgid "Post updated."
@@ -291,7 +291,7 @@ msgstr ""
 #: includes/controller/Admin.php:406 includes/controller/Admin.php:447
 #: includes/controller/Ajax.php:66
 msgid "An ID is required to delete a post."
-msgstr ""
+msgstr "ken weka ala e lipu sitelen. nimi li wile."
 
 #: includes/controller/Admin.php:424 includes/controller/Admin.php:465
 #: includes/controller/Ajax.php:83
@@ -317,7 +317,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:639 includes/controller/Admin.php:769
 msgid "Body cannot be blank."
-msgstr ""
+msgstr "sijelo li wile lon"
 
 #: includes/controller/Admin.php:675
 msgid "Page created!"
@@ -334,7 +334,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:695 includes/controller/Admin.php:755
 msgid "An ID is required to edit a page."
-msgstr ""
+msgstr "ken ante ala e lipu awen. nimi li wile."
 
 #: includes/controller/Admin.php:707 includes/controller/Admin.php:778
 #: includes/controller/Admin.php:846 includes/controller/Admin.php:887
@@ -358,7 +358,7 @@ msgstr ""
 #: includes/controller/Admin.php:837 includes/controller/Admin.php:875
 #: includes/controller/Ajax.php:110
 msgid "An ID is required to delete a page."
-msgstr ""
+msgstr "ken weka ala e lipu awen. nimi li wile."
 
 #: includes/controller/Admin.php:907 includes/controller/Ajax.php:123
 msgid "Page deleted."
@@ -429,7 +429,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:1114 includes/controller/Admin.php:1151
 msgid "An ID is required to edit a user."
-msgstr ""
+msgstr "ken ante ala e jan kepeken. nimi li wile."
 
 #: includes/controller/Admin.php:1123 includes/controller/Admin.php:1190
 #: includes/controller/Admin.php:1298 includes/controller/Admin.php:1347
@@ -447,7 +447,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:1289 includes/controller/Admin.php:1335
 msgid "An ID is required to delete a user."
-msgstr ""
+msgstr "ken weka ala e jan kepeken. nimi li wile."
 
 #: includes/controller/Admin.php:1303
 msgid "You cannot delete your own account."
@@ -498,7 +498,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:1533 includes/controller/Admin.php:1574
 msgid "An ID is required to edit a group."
-msgstr ""
+msgstr "ken ante ala e poki. nimi li wile."
 
 #: includes/controller/Admin.php:1615
 msgid "Group updated."
@@ -510,7 +510,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:1634 includes/controller/Admin.php:1686
 msgid "An ID is required to delete a group."
-msgstr ""
+msgstr "ken weka ala e poki. nimi li wile."
 
 #: includes/controller/Admin.php:1648
 msgid "You cannot delete your own group."
@@ -612,7 +612,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:2610
 msgid "Chyrp Lite content successfully imported!"
-msgstr ""
+msgstr "sona Kepilite li kama pona"
 
 #: includes/controller/Admin.php:2623 includes/controller/Admin.php:2716
 #: includes/controller/Admin.php:2801 includes/controller/Admin.php:2879
@@ -688,7 +688,7 @@ msgstr ""
 
 #: includes/controller/Admin.php:3070 install.php:679
 msgid "Chyrp URL cannot be blank."
-msgstr ""
+msgstr "nimi nasin Kepilite li wile lon."
 
 #: includes/controller/Admin.php:3077 install.php:681
 msgid "Invalid Chyrp URL."
@@ -796,8 +796,9 @@ msgid "General"
 msgstr ""
 
 #: includes/controller/Admin.php:3537
+#, fuzzy
 msgid "Content"
-msgstr ""
+msgstr "sijelo"
 
 #: includes/controller/Admin.php:3539
 msgid "Routes"
@@ -844,7 +845,7 @@ msgstr ""
 #: includes/controller/Main.php:400
 #, php-format
 msgid "Archive of %s"
-msgstr ""
+msgstr "lipu tenpo lon %s"
 
 #: includes/controller/Main.php:494
 msgid "Please enter a search term."
@@ -991,16 +992,16 @@ msgstr ""
 
 #: includes/error.php:179
 msgid "An unspecified error has occurred."
-msgstr ""
+msgstr "pakala pi sona ala li kama."
 
 #: includes/error.php:461
 msgid "Backtrace"
-msgstr ""
+msgstr "lipu nasin tenpo"
 
 #: includes/error.php:465
 #, php-format
 msgid "%s on line %d"
-msgstr ""
+msgstr "%s lon linja %d"
 
 #: includes/error.php:478
 msgid "Go back"
@@ -1057,22 +1058,22 @@ msgstr ""
 #: includes/helpers.php:2326
 #, php-format
 msgid "%s module is missing."
-msgstr ""
+msgstr "kipisi %s li lon ala"
 
 #: includes/helpers.php:2339
 #, php-format
 msgid "%s module is damaged."
-msgstr ""
+msgstr "kipisi %s li pakala."
 
 #: includes/helpers.php:2357
 #, php-format
 msgid "%s feather is missing."
-msgstr ""
+msgstr "waso %s li lon ala."
 
 #: includes/helpers.php:2370
 #, php-format
 msgid "%s feather is damaged."
-msgstr ""
+msgstr "waso %s li pakala."
 
 #: includes/helpers.php:2440 includes/helpers.php:2463
 #, php-format
@@ -1148,7 +1149,7 @@ msgstr ""
 #: includes/helpers.php:3348
 #, php-format
 msgid "Activate your account at %s"
-msgstr ""
+msgstr "o open e nimi kepeken sina lon %s"
 
 #: includes/helpers.php:3349 includes/helpers.php:3389
 #, php-format
@@ -1183,17 +1184,17 @@ msgstr ""
 #: includes/lib/Leaf.php:519
 #, php-format
 msgid "%s GB"
-msgstr ""
+msgstr "%s GB"
 
 #: includes/lib/Leaf.php:524
 #, php-format
 msgid "%s MB"
-msgstr ""
+msgstr "%s MB"
 
 #: includes/lib/Leaf.php:528
 #, php-format
 msgid "%s KB"
-msgstr ""
+msgstr "%s KB"
 
 #: includes/lib/Leaf.php:754
 msgid "Image source"
@@ -1215,15 +1216,15 @@ msgstr ""
 
 #: includes/main.js.php:43
 msgid "Are you sure you want to delete this post?"
-msgstr ""
+msgstr "sina wile weka ala weka e lipu sitelen ni?"
 
 #: includes/main.js.php:102
 msgid "Are you sure you want to delete this page and its child pages?"
-msgstr ""
+msgstr "sina wile weka ala weka e lipu awen ni e lipu awen ona?"
 
 #: includes/model/Group.php:318
 msgid "Change Settings"
-msgstr ""
+msgstr "o ante e lawa"
 
 #: includes/model/Group.php:319
 msgid "Toggle Extensions"
@@ -1251,11 +1252,11 @@ msgstr ""
 
 #: includes/model/Group.php:325
 msgid "Add Posts"
-msgstr ""
+msgstr "o pali e lipu sitelen sin"
 
 #: includes/model/Group.php:326
 msgid "Add Drafts"
-msgstr ""
+msgstr "o pali e lipu sin pi pini ala"
 
 #: includes/model/Group.php:327
 msgid "Edit Posts"
@@ -1295,7 +1296,7 @@ msgstr ""
 
 #: includes/model/Group.php:336
 msgid "Add Pages"
-msgstr ""
+msgstr "o pali e lipu awen sin"
 
 #: includes/model/Group.php:337
 msgid "Edit Pages"
@@ -1307,7 +1308,7 @@ msgstr ""
 
 #: includes/model/Group.php:339
 msgid "Add Users"
-msgstr ""
+msgstr "o pali e jan kepeken"
 
 #: includes/model/Group.php:340
 msgid "Edit Users"
@@ -1319,7 +1320,7 @@ msgstr ""
 
 #: includes/model/Group.php:342
 msgid "Add Groups"
-msgstr ""
+msgstr "o pali e poki sin"
 
 #: includes/model/Group.php:343
 msgid "Edit Groups"
@@ -1370,7 +1371,7 @@ msgstr ""
 
 #: install.php:246
 msgid "Chyrp Lite Installer"
-msgstr ""
+msgstr "ilo pali Kepilite"
 
 #: install.php:676
 msgid "Database cannot be blank."
@@ -1414,7 +1415,7 @@ msgstr "poki sona tan"
 
 #: install.php:1039
 msgid "Adapter"
-msgstr ""
+msgstr "ilo linja"
 
 #: install.php:1053
 msgid "Host"
@@ -1459,6 +1460,8 @@ msgid ""
 "Be sure to put your SQLite database outside the document root directory, "
 "otherwise visitors will be able to download it."
 msgstr ""
+"o pana ala e poki sona SQLite lon poki pi tan lipu. ante la jan kama li "
+"open e ona."
 
 #: install.php:1086
 msgid "Table Prefix"
@@ -1470,7 +1473,7 @@ msgstr ""
 
 #: install.php:1091
 msgid "Chyrp URL"
-msgstr ""
+msgstr "nimi nasin Kepilite"
 
 #: install.php:1095
 msgid "Site Name"
@@ -1494,7 +1497,7 @@ msgstr ""
 
 #: install.php:1122
 msgid "Admin Account"
-msgstr ""
+msgstr "nimi kepeken pi jan lawa"
 
 #: install.php:1132
 msgid "(again)"
@@ -1518,7 +1521,7 @@ msgstr ""
 
 #: install.php:1145
 msgid "Delete <em>install.php</em>, you won't need it anymore."
-msgstr "o weka e ilo <em>install.php</em>. sina wile ala e ilo."
+msgstr "o weka e ilo <em>install.php</em>. sina wile ala e ilo. "
 
 #: install.php:1146
 msgid "Log in to your site and configure things to your liking."
@@ -1530,7 +1533,7 @@ msgstr ""
 
 #: upgrade.php:622
 msgid "Chyrp Lite Upgrader"
-msgstr ""
+msgstr "ilo sin Kepilite"
 
 #: upgrade.php:945
 msgid "Halt!"
